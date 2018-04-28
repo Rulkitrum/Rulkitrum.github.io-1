@@ -9,7 +9,7 @@
      <div style="margin: 0 auto;width: 800px; text-align: left;">
      
      <br /><br />
-  <form action="https://rulkitrum.github.io/Rulkitrum.github.io-1/" method="post">
+  <form action="offerte.php" method="post">
        <font face= 'Trebuchet MS' size= '2.5'><strong>inOne KMU:</strong></p>
 
     <input type="radio" name="Einkauf[Internet]" value="<font face= 'Trebuchet MS' size= '2.5'><strong>Business Internet</strong> <br/> Option S: 40 Mbit/s max. Down- und Upload</p>"> Internet S<br>
